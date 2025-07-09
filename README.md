@@ -2,5 +2,5 @@
 
 # Running the notebook.
 - Open a terminal
-- Copy and paste: pip install requirements.txt
+- Copy and paste: pip install -r requirements.txt
 - Click run all, or run each cell individually
